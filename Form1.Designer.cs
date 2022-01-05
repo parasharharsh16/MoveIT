@@ -236,7 +236,8 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.Name = "Form_MoveIT";
-            this.Text = "MoveIT";
+            this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Show;
+            this.Text = "MovingIT";
             ((System.ComponentModel.ISupportInitialize)(this.txt_TimeInterval)).EndInit();
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
