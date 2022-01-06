@@ -2,5 +2,5 @@
 This code is to help people to keep their desktop screen awake in order to avoid any problems during any automation or task which require screen to be awake
 #Build on .NET framework 4.7
 #Application can just be installed using setup file given on the below link
-https://github.com/parasharharsh16/MoveIT/tree/master/Setup
+https://github.com/parasharharsh16/MovingIT/blob/master/Setup.zip
 or by going to setup folder
